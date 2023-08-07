@@ -7,7 +7,7 @@ export const DivSection = styled.div`
   width: 500px;
   background: #57aebd;
   border-radius: 15px;
-  margin-top: 100px;
+  margin-top: 90px;
 `;
 
 export const Title = styled.h1`
